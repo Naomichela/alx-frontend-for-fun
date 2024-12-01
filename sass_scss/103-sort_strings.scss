@@ -1,0 +1,5 @@
+// File: 103-sort_strings.scss
+$list-to-sort: john, anna, zoe, kim, felicia, carrie;
+
+@debug sort($list-to-sort);
+
